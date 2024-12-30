@@ -124,7 +124,7 @@ const SingleProduct = (props) => {
           component="img"
           height="190"
           image=""
-          src={`http://localhost:3000/Profile/${props.product.image}`}
+          src={`https://binhduy1402.id.vn/Profile/${props.product.image}`}
           title="Hình ảnh sản phẩm"
         />
         <CardContent>
